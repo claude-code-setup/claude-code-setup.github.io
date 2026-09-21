@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://claude-code-setup.github.io/sitemap.xml
