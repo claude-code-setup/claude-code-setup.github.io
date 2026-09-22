@@ -21,4 +21,5 @@ Claude Code is bundled with the paid consumer tiers rather than sold on its own,
 *This is an independent page written by a user; it is not operated by, affiliated with or endorsed by Anthropic, and all trademarks belong to their respective owners.*
 
 
+
 _Last reviewed: 2026-09-22_
